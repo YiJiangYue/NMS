@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Jun 26 23:39:34 2019
-
-@author: daoqi
-"""
-
 import numpy as np
 
 detections = np.loadtxt("detections.txt")
